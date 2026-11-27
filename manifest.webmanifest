@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "EMPIRE — Billionaire Simulator",
+  "short_name": "EMPIRE",
+  "description": "Build your empire, outgrow rivals, and live the life.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1113",
+  "theme_color": "#0c1113",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
